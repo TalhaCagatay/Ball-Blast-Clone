@@ -27,6 +27,13 @@ public class PlayerBehaviour : MonoBehaviour,IMovable
     {
         _playerInput = GetComponent<PlayerInput>();
         _myBody = GetComponent<Rigidbody2D>();
+
+        GameController.ResetGame += OnResetGame;
+    }
+
+    private void OnDestroy()
+    {
+        GameController.ResetGame -= OnResetGame;
     }
 
     private void Update()
@@ -48,6 +55,11 @@ public class PlayerBehaviour : MonoBehaviour,IMovable
         }
     }
 
+    private void OnResetGame()
+    {
+        ResetPlayer();
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Enemy"))
@@ -56,8 +68,6 @@ public class PlayerBehaviour : MonoBehaviour,IMovable
             {
                 PlayerDeath.Invoke();
             }
-
-            ResetPlayer();
         }
     }
 

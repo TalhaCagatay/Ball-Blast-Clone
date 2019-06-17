@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 167
+  controlID: 368
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -57,8 +57,8 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -132.46153
-    m_HBaseRangeMax: 132.46153
+    m_HBaseRangeMin: -248
+    m_HBaseRangeMax: 248
     m_VBaseRangeMin: -287
     m_VBaseRangeMax: 287
     m_HAllowExceedBaseRangeMin: 1
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 168
+  controlID: 369
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 169
+  controlID: 370
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -404,7 +404,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 61
+  controlID: 322
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -473,14 +473,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts/Behaviours
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Cago\RubyPrototype
+  m_LastProjectPath: C:\Users\Cago\Documents\GitHub\Ball-Blast-Clone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 71}
     m_SelectedIDs: d02c0000
     m_LastClickedID: 11472
-    m_ExpandedIDs: 000000004e2a00009c2a0000662c0000962c00001a2d0000002e0000ca31000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004e2a00009c2a0000662c0000962c00001a2d0000002e0000cc31000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,7 +508,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e2a00009c2a0000662c0000962c00001a2d0000002e0000ca310000
+    m_ExpandedIDs: 000000004e2a00009c2a0000662c0000962c00001a2d0000002e0000cc31000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -581,8 +581,8 @@ MonoBehaviour:
     y: 0
     width: 579
     height: 335
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -631,8 +631,8 @@ MonoBehaviour:
     y: 0
     width: 614
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}

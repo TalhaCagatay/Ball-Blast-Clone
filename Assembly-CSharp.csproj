@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{5BFEE7BA-1EE7-9599-1596-D92B2CBFDEA2}</ProjectGuid>
+    <ProjectGuid>{F2DAD565-BF49-6FDC-19AE-44674C688F81}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -135,10 +135,10 @@
     <None Include="Assets\ExtraAssets\TextMesh Pro\Examples &amp; Extras\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\ExtraAssets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Cago/RubyPrototype/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Cago/Documents/GitHub/Ball-Blast-Clone/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Cago/RubyPrototype/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Cago/Documents/GitHub/Ball-Blast-Clone/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.1.9f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -330,10 +330,10 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.1.9f2/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="TextMeshPro-2017.3-Editor">
-      <HintPath>C:/Users/Cago/RubyPrototype/Assets/ExtraAssets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll</HintPath>
+      <HintPath>C:/Users/Cago/Documents/GitHub/Ball-Blast-Clone/Assets/ExtraAssets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll</HintPath>
     </Reference>
     <Reference Include="TextMeshPro-2017.3-Runtime">
-      <HintPath>C:/Users/Cago/RubyPrototype/Assets/ExtraAssets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
+      <HintPath>C:/Users/Cago/Documents/GitHub/Ball-Blast-Clone/Assets/ExtraAssets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Cago/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
